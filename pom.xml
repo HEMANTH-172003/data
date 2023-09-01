@@ -30,11 +30,11 @@
                 <sonar.host.url>
                   http://localhost:9000
                 </sonar.host.url>
-		<sonar.token>
+		<sonar.login>
 			sqp_71bdacaf305f7cc3cbe43bff2bf2579b76f73ee5
-		</sonar.token>
-	        <sonar.login>admin</sonar.login>
-	        <sonar.password>Hemanth@172003</sonar.password>
+		</sonar.login>
+	        <!-- <sonar.login>admin</sonar.login>
+	        <sonar.password>Hemanth@172003</sonar.password> -->
             </properties>
         </profile>
      </profiles>
